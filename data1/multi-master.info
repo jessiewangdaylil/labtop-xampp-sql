@@ -1,0 +1,7 @@
+2023-05-14 14:37:37 0 [Note] Reading of all Master_info entries succeeded
+2023-05-14 14:37:37 0 [Note] Added new Master_info '' to hash table
+2023-05-14 14:37:37 0 [Note] d:\0.xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.27-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-05-14 14:44:53 8 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2023-05-14 14:44:58 9 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2023-05-14 14:45:06 10 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
